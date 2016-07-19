@@ -1,0 +1,361 @@
+﻿<layoutype>thumbnail</layoutype>
+
+
+<item>
+<title>[COLOR white] HD needs 1 min to focus[/COLOR] </title>
+<sportsdevil>http://youtube.com</sportsdevil>
+<referer>http://youtube.com</referer>
+</item>
+--------------------------------------------------------------
+http://soccerinhd.com/hd3.html
+
+
+
+
+<item>
+<title>[COLOR blue]SKY[/COLOR] [COLOR white]SPORTS[/COLOR] [COLOR blue]1 HD[/COLOR] </title>
+<sportsdevil>http://www.soccerjumbotv.me/ch-6.html</sportsdevil>
+<referer>http://showsport-tv.com</referer>
+<thumbnail>http://s4.postimg.org/gym3o7inx/skysports_hd_estreia_sky.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR red]SKY[/COLOR] [COLOR white]SPORTS[/COLOR] [COLOR blue]1 HD[/COLOR] </title>
+<sportsdevil>http://livefootball.gr/hd-streaming/Sky-Sports-2-hd.php</sportsdevil>
+<referer>http://www.crichd.tv</referer>
+<thumbnail>http://s4.postimg.org/gym3o7inx/skysports_hd_estreia_sky.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]SKY[/COLOR] [COLOR white]SPORTS[/COLOR] [COLOR blue]1 HD back up[/COLOR] </title>
+<sportsdevil>http://www.livefootball.gr/live-streaming-agones-stream-sports-tv-ch3.php?lang=</sportsdevil>
+<referer>http://hdfree.tv</referer>
+<thumbnail>http://s4.postimg.org/gym3o7inx/skysports_hd_estreia_sky.png</thumbnail>
+<fanart></fanart>
+</item>
+
+--------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR red]SKY[/COLOR] [COLOR white]SPORTS[/COLOR] [COLOR blue]2 HD[/COLOR] </title>
+<sportsdevil>http://www.livefootball.gr/live-streaming-agones-stream-sports-tv-ch4.php?lang=</sportsdevil>
+<referer>http://showsport-tv.com</referer>
+<thumbnail>http://s4.postimg.org/gym3o7inx/skysports_hd_estreia_sky.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR red]SKY[/COLOR] [COLOR white]SPORTS[/COLOR] [COLOR blue]2 HD[/COLOR] </title>
+<sportsdevil>http://www.livefootball.gr/live-streaming-agones-stream-sports-tv-ch5.php?lang=</sportsdevil>
+<referer>http://www.crichd.tv</referer>
+<thumbnail>http://s4.postimg.org/gym3o7inx/skysports_hd_estreia_sky.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]SKY[/COLOR] [COLOR white]SPORTS[/COLOR] [COLOR blue]6 HD back up[/COLOR] </title>
+<sportsdevil>http://www.livefootball.gr/live-streaming-agones-stream-sports-tv-ch6.php?lang=</sportsdevil>
+<referer>http://hdfree.tv</referer>
+<thumbnail>http://s4.postimg.org/gym3o7inx/skysports_hd_estreia_sky.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+---------------------------------------------------------------------------------------
+<item>
+<title>[COLOR red]SKY[/COLOR] [COLOR white]SPORTS[/COLOR] [COLOR blue]3 HD[/COLOR] </title>
+<sportsdevil>http://www.livefootball.gr/live-streaming-agones-stream-sports-tv-ch7.php?lang=</sportsdevil>
+<referer>http://showsport-tv.com</referer>
+<thumbnail>http://s4.postimg.org/gym3o7inx/skysports_hd_estreia_sky.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR red]SKY[/COLOR] [COLOR white]SPORTS[/COLOR] [COLOR blue]3 HD[/COLOR] </title>
+<sportsdevil>http://www.livefootball.gr/live-streaming-agones-stream-sports-tv-ch8.php?lang=</sportsdevil>
+<referer>http://www.crichd.tv</referer>
+<thumbnail>http://s4.postimg.org/gym3o7inx/skysports_hd_estreia_sky.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]SKY[/COLOR] [COLOR white]SPORTS[/COLOR] [COLOR blue]3 HD back up[/COLOR] </title>
+<sportsdevil>http://www.livefootball.gr/live-streaming-agones-stream-sports-tv-ch9.php?lang=</sportsdevil>
+<referer>http://hdfree.tv</referer>
+<thumbnail>http://s4.postimg.org/gym3o7inx/skysports_hd_estreia_sky.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR red]SKY[/COLOR] [COLOR white]SPORTS[/COLOR] [COLOR blue]4 HD[/COLOR] </title>
+<sportsdevil>http://www.livefootball.gr/live-streaming-agones-stream-sports-tv-ch10.php?lang=</sportsdevil>
+<referer>http://showsport-tv.com</referer>
+<thumbnail>http://s4.postimg.org/gym3o7inx/skysports_hd_estreia_sky.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR red]SKY[/COLOR] [COLOR white]SPORTS[/COLOR] [COLOR blue]4 HD[/COLOR] </title>
+<sportsdevil>http://www.livefootball.gr/live-streaming-agones-stream-sports-tv-ch11.php?lang=</sportsdevil>
+<referer>http://www.crichd.tv</referer>
+<thumbnail>http://s4.postimg.org/gym3o7inx/skysports_hd_estreia_sky.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]SKY[/COLOR] [COLOR white]SPORTS[/COLOR] [COLOR blue]4 HD back up[/COLOR] </title>
+<sportsdevil>http://www.livefootball.gr/live-streaming-agones-stream-sports-tv-ch12.php?lang=</sportsdevil>
+<referer>http://hdfree.tv</referer>
+<thumbnail>http://s4.postimg.org/gym3o7inx/skysports_hd_estreia_sky.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+------------------------------------------------------------------------------------------
+<item>
+<title>[COLOR red]SKY[/COLOR] [COLOR white]SPORTS[/COLOR] [COLOR blue]5 HD[/COLOR] </title>
+<sportsdevil>http://www.livefootball.gr/live-streaming-agones-stream-sports-tv-ch13.php?lang=</sportsdevil>
+<referer>http://showsport-tv.com</referer>
+<thumbnail>http://s4.postimg.org/gym3o7inx/skysports_hd_estreia_sky.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR red]SKY[/COLOR] [COLOR white]SPORTS[/COLOR] [COLOR blue]5 HD[/COLOR] </title>
+<sportsdevil>http://www.livefootball.gr/live-streaming-agones-stream-sports-tv-ch14.php?lang=</sportsdevil>
+<referer>http://www.crichd.tv</referer>
+<thumbnail>http://s4.postimg.org/gym3o7inx/skysports_hd_estreia_sky.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]SKY[/COLOR] [COLOR white]SPORTS[/COLOR] [COLOR blue]5 HD back up[/COLOR] </title>
+<sportsdevil>http://www.alphatv.gr/webtv/live</sportsdevil>
+<referer>http://hdfree.tv</referer>
+<thumbnail>http://s4.postimg.org/gym3o7inx/skysports_hd_estreia_sky.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+---------------------------------------------------------------------------------------
+
+
+<item>
+<title>[COLOR white] SD[/COLOR] </title>
+<sportsdevil>http://youtube.com</sportsdevil>
+<referer>http://youtube.com</referer>
+</item>
+
+
+
+<item>
+<title>[COLOR red]SKY[/COLOR][COLOR white]SPORTS [/COLOR][COLOR blue]1 SD[/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://showsport-tv.com/embed/bein12&width=600&height=400</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/skysports1.png</thumbnail>
+</item>
+ 
+
+---------------------------------------------------------------------------------------------------------------
+
+==============================================================================
+<item>
+<title>[COLOR red]SKY[/COLOR][COLOR white]SPORTS [/COLOR][COLOR blue]2 SD[/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports2.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/skysports2.png</thumbnail>
+</item>
+ 
+==============================================================================
+<item>
+<title>[COLOR red]SKY[/COLOR][COLOR white]SPORTS [/COLOR][COLOR blue]3 SD[/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports3.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/skysports3.png</thumbnail>
+</item>
+ 
+==============================================================================
+<item>
+<title>[COLOR red]SKY[/COLOR][COLOR white]SPORTS [/COLOR][COLOR blue]4 SD[/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports4.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/skysports4.png</thumbnail>
+</item>
+ 
+===============================================================================
+<item>
+<title>[COLOR red]SKY[/COLOR][COLOR white]SPORTS [/COLOR][COLOR blue]5 SD[/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysports5.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/skysports5.png</thumbnail>
+</item>
+ 
+==============================================================================
+
+<item>
+<title>[COLOR red]SKY[/COLOR][COLOR white]SPORTS [/COLOR][COLOR blue]NEWS SD[/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysportsnews.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/skysportsnews.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]SKY[/COLOR][COLOR white]SPORTS [/COLOR][COLOR blue]F1 HD[/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysportsf1.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/skysportsf1.png</thumbnail>
+</item>
+ 
+
+==================================================================================================================
+
+<item>
+<title>[COLOR red]SKY[/COLOR][COLOR white]SPORTS [/COLOR][COLOR blue]CRICKET[/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysportscricket.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/skysportscricket.png</thumbnail>
+</item>
+ 
+==============================================================================================
+<item>
+<title>[COLOR white] ITALIA HD[/COLOR] </title>
+<sportsdevil>http://youtube.com</sportsdevil>
+<referer>http://youtube.com</referer>
+</item>
+
+================================================================================================================================================================================
+
+ 
+<item>
+<title>[COLOR gold]SKY SPORTS[/COLOR] [COLOR gold]1 HD[/COLOR] [COLOR gold]ITALIA[/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysport1italia.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/skysport1italia.png</thumbnail>
+</item>
+ 
+=================================================================================================
+<item>
+<title>[COLOR gold]SKY SPORTS[/COLOR] [COLOR gold]2 HD[/COLOR] [COLOR gold]ITALIA[/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysport2italia.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/skysport2italia.png</thumbnail>
+</item>
+ 
+===============================================================================================
+<item>
+<title>[COLOR gold]SKY SPORTS[/COLOR] [COLOR gold]3 HD[/COLOR] [COLOR gold]ITALIA[/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysport3italia.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/skysport3italia.png</thumbnail>
+</item>
+ 
+========================================================================================
+<item>
+<title>[COLOR gold]SKY SPORTS[/COLOR] [COLOR gold]24 HD[/COLOR] [COLOR gold]ITALIA[/COLOR] </title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysport24italia.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/skysport24italia.png</thumbnail>
+</item>
+ 
+============================================================================================
+ 
+<item>
+<title>[COLOR gold]SKY [/COLOR][COLOR white]CAL[/COLOR][COLOR blue]CIO [/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skycalcio.php?width=650&height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.liveonlinetv247.info/images/skycalcio.png</thumbnail>
+</item>
+ 
+============================================================================================
