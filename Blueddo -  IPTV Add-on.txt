@@ -14,9 +14,9 @@ http://soccerinhd.com/hd3.html
 
 <item>
 <title>[COLOR blue]SKY[/COLOR] [COLOR white]SPORTS[/COLOR] [COLOR blue]1 HD[/COLOR] </title>
-<sportsdevil>http://www.soccerjumbotv.me/ch-6.html</sportsdevil>
-<referer>http://showsport-tv.com</referer>
-<thumbnail>http://s4.postimg.org/gym3o7inx/skysports_hd_estreia_sky.png</thumbnail>
+<sportsdevil>https://www.canlitvizle.io/minika-cocuk</sportsdevil>
+<referer>https://www.canlitvizle.io/referer>
+<thumbnail>https://www.canlitvizle.io/wp-content/uploads/2016/03/minikacocuk.png</thumbnail>
 <fanart></fanart>
 </item>
 
