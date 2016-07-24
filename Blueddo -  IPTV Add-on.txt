@@ -20,7 +20,7 @@ http://soccerinhd.com/hd3.html
 <expres>(http[^\s]*m3u8)<expres>
 <page>https://www.canlitvizle.io/minika-cocuk</page>
 <referer>https://www.canlitvizle.io/minika-cocuk</referer>
-<connection>keep-alive</connection>
+<connection>playtvfr</connection>
 <accept>Accept-Encoding:gzip,deflate,*/*,en;q=0.8</accept>
 <X-Req>ShockwaveFlash/22.0.0.192</X-Req>
 <cookieJar></cookieJar>
