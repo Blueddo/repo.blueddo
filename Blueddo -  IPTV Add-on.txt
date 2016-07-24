@@ -13,6 +13,23 @@ http://soccerinhd.com/hd3.html
 
 
 <item>
+<title>TEST | Minika Cocuk | m3u8</title>
+<link>$doregex[get_m3u8]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>get_m3u8</name>
+<expres>(http[^\s]*m3u8)<expres>
+<page>https://www.canlitvizle.io/minika-cocuk</page>
+<referer>https://www.canlitvizle.io/minika-cocuk</referer>
+<connection>keep-alive</connection>
+<accept>Accept-Encoding:gzip,deflate,*/*,en;q=0.8</accept>
+<X-Req>ShockwaveFlash/22.0.0.192</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://www.canlitvizle.io/wp-content/uploads/2016/03/minikacocuk.png</thumbnail>
+<fanart>https://www.canlitvizle.io/wp-content/uploads/2016/03/minikacocuk.png</fanart>
+</item>
+
+<item>
 <title>[COLOR blue]SKY[/COLOR] [COLOR yellow]SPORTS[/COLOR] [COLOR blue]1 HD[/COLOR] </title>
 <link>http://198.16.100.34/2/kdLJ7B6w/68708/Nlk10FJ/14693/HCe0ln_/minikacocuk.m3u8</link>
 <thumbnail>https://www.canlitvizle.io/wp-content/uploads/2016/03/minikacocuk.png</thumbnail>
