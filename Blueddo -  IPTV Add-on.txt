@@ -14,7 +14,7 @@ http://soccerinhd.com/hd3.html
 
 <item>
 <title>[COLOR blue]SKY[/COLOR] [COLOR yellow]SPORTS[/COLOR] [COLOR blue]1 HD[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://198.16.100.34/2/kdLJ7B6w/68708/Nlk10FJ/14693/HCe0ln_/minikacocuk.m3u8</link>
+<link>http://198.16.100.34/2/kdLJ7B6w/68708/Nlk10FJ/14693/HCe0ln_/minikacocuk.m3u8</link>
 <thumbnail>https://www.canlitvizle.io/wp-content/uploads/2016/03/minikacocuk.png</thumbnail>
 <fanart>https://www.canlitvizle.io/wp-content/uploads/2016/03/minikacocuk.png</fanart>
 </item>
