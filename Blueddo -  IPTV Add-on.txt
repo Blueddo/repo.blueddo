@@ -13,14 +13,14 @@ http://soccerinhd.com/hd3.html
 
 
 <item>
-<title>TEST | Minika Cocuk | m3u8</title>
+<title>TEST | Cartoon Network | m3u8</title>
 <link>$doregex[get_m3u8]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>get_m3u8</name>
 <expres>(http[^\s]*m3u8)<expres>
-<page>https://www.canlitvizle.io/minika-cocuk</page>
-<referer>https://www.canlitvizle.io/minika-cocuk</referer>
-<connection>playtvfr</connection>
+<page>http://www.streamlive.to/view/71632/Cartoon_Network</page>
+<referer>http://www.streamlive.to/view/71632/Cartoon_Network</referer>
+<connection>keep-alive</connection>
 <accept>Accept-Encoding:gzip,deflate,*/*,en;q=0.8</accept>
 <X-Req>ShockwaveFlash/22.0.0.192</X-Req>
 <cookieJar></cookieJar>
