@@ -13,29 +13,26 @@ http://soccerinhd.com/hd3.html
 
 
 <item>
-<title>[COLOR blue]SKY[/COLOR] [COLOR white]SPORTS[/COLOR] [COLOR blue]1 HD[/COLOR] </title>
-<sportsdevil>https://www.canlitvizle.io/minika-cocuk</sportsdevil>
-<referer>https://www.canlitvizle.io/referer>
+<title>[COLOR blue]SKY[/COLOR] [COLOR yellow]SPORTS[/COLOR] [COLOR blue]1 HD[/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://198.16.100.34/2/kdLJ7B6w/68708/Nlk10FJ/14693/HCe0ln_/minikacocuk.m3u8</link>
 <thumbnail>https://www.canlitvizle.io/wp-content/uploads/2016/03/minikacocuk.png</thumbnail>
-<fanart></fanart>
+<fanart>https://www.canlitvizle.io/wp-content/uploads/2016/03/minikacocuk.png</fanart>
 </item>
 
 
 
 <item>
-<title>[COLOR red]SKY[/COLOR] [COLOR white]SPORTS[/COLOR] [COLOR blue]1 HD[/COLOR] </title>
-<sportsdevil>http://livefootball.gr/hd-streaming/Sky-Sports-2-hd.php</sportsdevil>
-<referer>http://www.crichd.tv</referer>
+<title>[COLOR red]SKY[/COLOR] [COLOR white]TEST[/COLOR] [COLOR blue]1[/COLOR] </title>
+<link>http://livefootball.gr/hd-streaming/Sky-Sports-2-hd.php</link>
 <thumbnail>http://s4.postimg.org/gym3o7inx/skysports_hd_estreia_sky.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR red]SKY[/COLOR] [COLOR white]SPORTS[/COLOR] [COLOR blue]1 HD back up[/COLOR] </title>
-<sportsdevil>http://www.livefootball.gr/live-streaming-agones-stream-sports-tv-ch3.php?lang=</sportsdevil>
-<referer>http://hdfree.tv</referer>
-<thumbnail>http://s4.postimg.org/gym3o7inx/skysports_hd_estreia_sky.png</thumbnail>
-<fanart></fanart>
+<title>[COLOR blue]SKY[/COLOR] [COLOR yellow]SPORTS[/COLOR] [COLOR blue]1 HD[/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://www.canlitvizle.io/minika-cocuk</link>
+<thumbnail>https://www.canlitvizle.io/wp-content/uploads/2016/03/minikacocuk.png</thumbnail>
+<fanart>https://www.canlitvizle.io/wp-content/uploads/2016/03/minikacocuk.png</fanart>
 </item>
 
 --------------------------------------------------------------------------------------
